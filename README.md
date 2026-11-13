@@ -47,3 +47,6 @@ The PSP normally encrypts `SECURE.BIN`. You need a **decrypted** save (`524,288 
 
 * **Created by:** GFreddy (This guy is a fraud bruh, It was made by **Claude**.)
 * **Compatibility:** Built and tested on the North American PSP release (`ULUS10198`).
+
+
+### **[Launch the Tokyo Drift Save Editor in Your Browser](https://gfreddyworkz.github.io/The-Fast-and-The-Furious-Tokyo-Drift-Editor/)**
