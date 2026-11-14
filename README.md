@@ -45,7 +45,7 @@ The PSP normally encrypts `SECURE.BIN`. You need a **decrypted** save (`524,288 
 
 ## Credits & Notes
 
-* **Created by:** GFreddy (This guy is a fraud bruh, It was made by **Claude**, but if you wanna talk to this bum, dm .benxt on disocrd.)
+* **Created by:** GFreddy (This guy is a fraud bruh, It was made by **Claude**, but if you wanna talk to this bum, dm kammyfucks on disocrd.)
 * **Compatibility:** Built and tested on the North American PSP release (`ULUS10198`).
 
 
