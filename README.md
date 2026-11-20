@@ -22,7 +22,6 @@ Built with Claude Because I Suck, And since realizing nobody had made a proper s
 - **Garage Management:** Clone cars, add any factory-stock car from the game's internal list, add rival cars, import cars from another `SECURE.BIN` save, or delete cars.
 - **Share a Car:** Turn any car into a **car code or file** (parts, tunes, paint, rims, vinyls and all) and send it to a friend. They paste it in and the car lands in their garage.
 - **Health Check:** Every download is checked first. If the save looks broken, the editor blocks the download and tells you why.
-- **Tune Shop Bypass (Experimental):** This shit barely works bruh ain't gon lie. ✌️😭💔
 - **Unlocks & Cash:** Unlock cars (Dealership ones.) upgrades, stickers, shop discounts, cash.
 
 ### What's New
