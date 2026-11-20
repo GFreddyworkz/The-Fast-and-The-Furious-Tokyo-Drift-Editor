@@ -26,8 +26,7 @@ Built with Claude Because I Suck, And since realizing nobody had made a proper s
 
 ### What's New
 
-- **v0.4.3:** Tyres (grip and drift), Advanced Values, Engine Curve, Rim Colour, Share a Car, Health Check, and a proper Info tab.
-- **v0.4.2:** Body Paint (30 colours or custom RGB).
+- **v0.4.3:** Tyres (grip and drift), Advanced Values, Engine Curve, Rim Colour, Share a Car, Health Check, and a proper Info tab and Body Paint (30 colours or custom RGB).
 
 ### Still Not Decoded Yet
 
